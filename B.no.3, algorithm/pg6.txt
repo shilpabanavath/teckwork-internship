@@ -1,0 +1,52 @@
+start
+step1: read y=0,z=0,n=1
+step2: while(x>0&& n>0);
+      {
+        z=((x*x)/n)
+        n=n+1
+        y=y+z
+      } 
+step3: display "y"
+end
+
+
+start
+step1: read any number say n, s=0
+step2: while(n>0)
+{
+      dig=n%10;
+      n=n/10;
+      s=s+dig
+      }
+step3: display s;
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+start
+step1: read number i,n;
+step2: if(n%2==0)
+      {
+        print("given number is divisible by even no")
+     for (i=1; i<=n,i++)
+        if(even 1)
+        
+      

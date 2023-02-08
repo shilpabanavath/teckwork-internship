@@ -1,0 +1,8 @@
+   start
+step 1: read price of four products
+step 2: read p1,p2,p3,p4;
+step 3: read sum= p1+p2+p3+p4;
+step 3: display sum;
+step 4:  read sum*n%/100; 
+step 5: display sum ;
+step 6: stop/end

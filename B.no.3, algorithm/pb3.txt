@@ -1,0 +1,8 @@
+start
+step1: read the products m,t,c,s
+step2: read price=m+t+c+s;
+step3: if(price<500)
+      display(price*10)/100
+step4: if (price>1000)
+       display(price*20)/100
+end

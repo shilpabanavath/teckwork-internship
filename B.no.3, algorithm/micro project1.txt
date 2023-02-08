@@ -1,0 +1,113 @@
+ATM Transaction
+start
+step1: insert the ATM card
+step2: mechine read the card
+          if(card vaild);
+       {
+       print("display select language")
+   else
+      if(card invaild)
+     print("remove and re-insert your card")
+step3: select the language
+           display "engilsh"
+           display " hindi"
+         display "telugu"
+step4: select the type of transaction
+          step4.1:withdraw
+          step4.2:pin change
+         step4:balance enquiry
+step5:  select accuont type
+           current account
+         saving account
+         credit card
+step6:   enter amount to be withdrawn
+             if (  amount withdraw  1 00rs)
+             {
+          print("re-conform the amount you have entered)
+          }
+//  amount should be an maintain minimum rs 100
+step7: enter your PIN
+          If( pin is coorect)
+          print("your transaction is being processed")
+       else
+           if(pin is incorrect)
+          print(" pin is incorrect please try agin ")
+step8: remove your card
+step9: collect the amount
+step10: cash withdrawl receipts
+           step9.1  display do you also us to display your account balance on screen
+                         yes
+                        no
+            step9.2: enter option no
+step10: your transaction is complete
+step11:clear
+end
+
+
+
+
+
+
+
+
+
+// liabrary managment system
+start
+step1: login
+        step1.1: display   " user id and password"
+       step1.2:  display    " forgot password"
+                        step1.2.1: change password
+      step1.3:  display   "creat new account"
+step2: enter the user id/ mail
+            if(it is correct)
+             {
+                print(" open your profile");
+      else if ( it is not correct)
+              print(" invaild passowrd or user id")
+         }
+step3:  display your account
+          steop3.1: add publication
+          step 3.2: add book
+        step 3.3:  add branch
+       step3.4: add student 
+                     step3.4.1: create student account or profile
+       step3.5: book/student report
+                     step 3.5.1:  search books
+                     step 3.5.2: book author
+                    step 3.5.3: publisher
+    step 4: student take the book
+             step4.1: display " student id"
+            step4.2: display " student address"
+          step4.3:  display " student e-mail"
+         step 4.4: display " student phone number"
+        step 4.5: display " book id"
+step 5: return book
+step6: panality
+step7: logout
+step8 : end
+
+      
+      
+         
+
+        
+
+
+
+
+
+
+
+
+
+
+          
+
+             
+             
+         
+       
+
+
+
+

@@ -1,0 +1,11 @@
+// display sum and average
+
+start
+step 1: read number of three subjects
+step 2: read"marks in m1 60"
+step 3: read "marks in M2 IS 65"
+Step 3: read " marks in m3 is 35"
+step 4: sum = m1+m2+m3
+step 5: display avge = sum\3
+
+step 5: \\end
