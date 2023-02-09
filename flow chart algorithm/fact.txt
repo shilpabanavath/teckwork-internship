@@ -1,0 +1,15 @@
+start
+step1: read n
+step2: take k=1
+step3: for(k=n; k>=1;k--)
+         display "k"
+step4: fact=fact*k
+           display "fact"
+stop
+start
+ step1:Read n,p=1
+ step2:for(i=1:i<=n:i++)
+       {
+        factorial=p*i;
+       }
+ step3:Display factorial

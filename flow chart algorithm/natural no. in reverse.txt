@@ -1,0 +1,26 @@
+start
+step1: read the any number , n;
+step2: take the value n=i
+step: while(i=n;i>=n;n--)
+        {
+       display " n"
+    }
+end
+
+
+start
+srep1: read n
+step2: for(k=n; k>=1;k-1)
+           display "k"
+stop
+
+
+start
+step1: read n
+step2: k=1;
+step3: while(k>=1)
+           {
+         display "k"
+       k=k-1;
+      }
+stop
