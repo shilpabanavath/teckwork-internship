@@ -1,0 +1,12 @@
+start
+step1: read n, k
+step2: take k=56;
+step3: while(k>=143; k++)
+            {
+            k%6==0;
+          n=n+k;
+          }
+      display "n"
+stop
+       
+           

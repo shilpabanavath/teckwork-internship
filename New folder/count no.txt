@@ -1,0 +1,9 @@
+start
+step1: read a,n
+step2: while(a!=0)
+             {
+          a=a/10;
+        n=n+1;
+          } 
+        display "n"
+stop

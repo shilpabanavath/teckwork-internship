@@ -1,0 +1,8 @@
+start
+step1:read a,b
+step2: print a,b
+step3: a=a+b;
+step4: b=a-b
+step5: a=a-b
+step6: print a,b
+stop
