@@ -1,0 +1,28 @@
+types of operators in java
+      1. Arithmatic operators
+     2. unary operators
+  3.   Assiginment operators
+    4. Relation operators
+    5. Logical operators
+    6. Ternary operator
+  7.   Bitwise operator
+   8. Shift operator 
+  9. instance of operator
+     
+ 1. Arthmatic operator:   it is used to perform simple arthmitic operation on primitive data type
+       i: addition
+     ii: substraction
+     iii: multiplication
+   iv : division
+   v: modulo
+2. unary operators: it is used to increment , decrement or negative value
+     -,+,++,--, 
+3. relation operators: used to check for relations like equality, > , <. they return boolean results after the comparision
+logical operators: AND,OR,NOT
+Ternary operator: it is the if-else statement. it has three operands 
+   condition is if true: if false
+shift operators:
+ <<, left shift operators
+>>, signed right shift operators
+>>>, unsigned right shift operator
+

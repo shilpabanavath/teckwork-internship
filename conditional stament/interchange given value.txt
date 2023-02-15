@@ -1,0 +1,18 @@
+import java.util.*;
+ public class age
+{
+  public static void main(String args[])
+   {
+     int a;
+     Scanner s=newScnner(System.in);
+     a=s.nextInt();
+   if(a>=18)
+      {
+        System.out.println("Elgible for vote");
+      }
+   else
+      {
+      System.out.println(" Not Elgible for vote");
+      }
+   }
+}
